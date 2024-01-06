@@ -1,0 +1,66 @@
+npm install -g typescript
+tsc -v
+
+npm install -g @angular/cli
+ng version
+
+C:\Users\GERMAN\OneDrive\Escritorio\JAVA-MASTER\spring5
+
+mkdir angular
+ng new clientes-app
+cd clientes-app
+ng serve -o
+
+cd src
+cd app
+mkdir footer
+cd footer
+ng generate class footer.component
+
+cliente-app > ng generate component directiva
+ng generate c clientes
+
+ C:\Users\GERMAN\OneDrive\Escritorio\JAVA-MASTER\spring5\angular\clientes-app\src\app\clientes> ng g class cliente
+ C:\Users\GERMAN\OneDrive\Escritorio\JAVA-MASTER\spring5\angular\clientes-app\src\app\clientes> ng g service cliente
+
+otra forma de instalar boostrap:
+ C:\Users\GERMAN\OneDrive\Escritorio\JAVA-MASTER\spring5\angular\clientes-app> npm i bootstrap@4.0.0-beta.3 jquery popper.js --save
+
+
+mysql -u root -p
+mysql> CREATE DATABASE db_springboot_backend;
+show database;
+
+//////////////////////////////  
+ C:\Users\GERMAN\OneDrive\Escritorio\JAVA-MASTER\spring5\angular\clientes-app\src\app\clientes app para arrancar el app ////////////////////////////////////////////
+
+https://www.baamboozle.com/game/167523
+https://www.liveworksheets.com/w/en/english-second-language-esl/1769263
+
+
+1)O 2)F 3)P 4)C 5)R 6)S 7)Q 8)A 9)M 10)J 11)T 12)D 13)X 14)B 15)N 16)I 17)H 18)U 19)E 20)G 21)V 22)G 23)K 24)W 25)I 26)O
+
+        
+  <h1 class="text-center">{{title}}</h1>
+
+  <app-clientes></app-clientes>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

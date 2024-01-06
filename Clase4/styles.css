@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(198, 215, 235);
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 255, 255);
+}
+.cs-bt {
+    caption-side: bottom;
+    table-layout: auto;
+    width: 90%;
+    border-collapse: separate;
+    border-spacing: 25px 10px;
+    empty-cells: hide;
+
+}
+
+.cs-bt2 {
+    caption-side: top;
+    table-layout: fixed;
+    width: 300px;
+    border-collapse: collapse;
+    margin-left: 600px;
+}
+
+.cs-bt3 {
+    align-items: center;
+    caption-side: top;
+    table-layout: auto;
+    width: 500px;
+    border-collapse: separate;
+    margin-left: 600px;
+}
+
+tr,
+td,
+th {
+    border: 1px solid rgb(7, 0, 0);
+}
+
+h4 {
+    text-align: center;
+    background-color: rgba(240, 7, 7, 0.726);
+    color: rgba(81, 34, 252, 0.901);
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+caption {
+    text-align: center;
+    color: aqua;
+    background-color: brown;
+    width: 230px;
+}

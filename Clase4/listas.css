@@ -1,0 +1,23 @@
+.lista-a {
+    list-style-type: circle;
+}
+
+.lista-b {
+    list-style-type: square;
+}
+
+.lista-c {
+    list-style-type: upper-roman;
+}
+
+.lista-d {
+    list-style-type: lower-alpha;
+}
+
+.image-list1 {
+    list-style-image: url("https://www.racjonalista.pl/img/rssc.gif");
+}
+
+.image-list2 {
+    list-style-image: url("https://racjonalista.pl/img/em/lol.gif");
+}

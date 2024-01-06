@@ -1,0 +1,30 @@
+1) Nombre del Proyecto: "DevJobs" .
+2) Descripción: es un "Es un Portal  de empleos para desarrolladores, sincronizada para funcionar en la ciudad de Medellin, los profesionales pueden montar su hoja de vida y ponerse en contacto con el empleador o reclutador. Las principales Herramientas tecnologicas usadas son Visual Studio Code, NodeJs, Handlebars, Mongoose, Express".
+3) Otras Tecnologías Utilizadas: Node.js, Handlebars, Mongoose, Webpack, Babel, axios, bcrypt, body-parser, connect-mongo, content-type, dotenv, express-handlebars, express-session, express-validator,mongodb, multer, nodemailer, nodemon, rimraf, 
+
+4) Ambiente de Desarrollo: Mi programa se ejecuta con "npm start".
+5) cerrar el programa: Mi programa se cierra asi: ctrl + c, S
+
+2)	MENCIONAR 5 PALABRAS EN INGLES Y EXPLICAR SU USO TECNICO:
+
+A)	express: Es un framework (estructura-maqueta) web minimalista y flexible para Node.js que ofrece un conjunto robusto de características para aplicaciones web y móviles1.
+express: It is a minimalist and flexible web framework for Node.js that offers a robust set of features for web and mobile applications1.
+B)	express-handlebars: Es un motor de plantillas compatible con Express que utiliza la sintaxis de Handlebars2.
+C)	express-session: Es un middleware de sesión para Express que proporciona una forma de almacenar datos específicos de cada cliente3.
+D)	express-validator: Es un conjunto de middlewares de validación y saneamiento para Express que se basa en la librería validator.js4.
+E)	dotenv: Es un módulo que carga variables de entorno desde un archivo .env a process.env.
+
+
+
+
+1) Project Name: "DevJobs".
+2) Description: it is a "It is a job portal for developers, synchronized to operate in the city of Medellín, professionals can set up their resume and contact the employer or recruiter. The main technological tools used are Visual Studio Code, NodeJs, Handlebar, Mongoose, Express".
+3) Other Technologies Used: Node.js, Handlers, Mongoose, Webpack, Babel, axios, bcrypt, body-parser, connect-mongo, content-type, dotenv, express-handlebars, express-session, express-validator, mongodb, multer, nodemailer, nodemon, rimraf,
+
+4) Development Environment: My program runs with "npm start".
+5) close the program: My program closes like this: ctrl + c, S
+
+
+
+
+📢 Si conoces a alguien o eres apasionado por los números, organizado y tienes experiencia en contabilidad, ¡podrías ser la persona que estamos buscando!📊 Contactame!📊

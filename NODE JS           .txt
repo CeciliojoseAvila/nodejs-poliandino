@@ -1,0 +1,60 @@
+//////////////     NODE JS           /////////////////////////
+
+npm init
+ npm install --save-dev nodemon
+
+
+ --> npm i -D typescript @types/node
+ --> npx tsc --init --outDir dist/ --rootDir src
+---> npx tsc --watch
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs> npx nodemon classNode/dist/app.js
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\classNode>  npx tsc --watch
+
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\classNode> npm i -D ts-node nodemon
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\classNode> npm run dev
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\classNode> npm i -D rimraf
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\classNode> npm run build
+
+//////////////////////////////////////////////////////////////////////
+
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases>  npm i -D typescript @types/node
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases>  npx tsc --init --outDir dist/ --rootDir src
+
+
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases>  npm i -D ts-node nodemon
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases>  npx tsc
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases> npm i -D rimraf
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases> npm run build
+
+
+/////////////     20/10
+
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases>  npm install -D jest @types/jest ts-jest supertest
+
+C:\Users\GERMAN\OneDrive\Escritorio\nodejs\Bases> npx jest --init
+No, Yes, Node, Yes, V8, No
+
+
+
+/// en otra consola:
+npm run test:watch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
